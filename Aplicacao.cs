@@ -53,7 +53,7 @@ public class Aplicacao
 
     private static void CadastrarAnimal()
     {
-        // TODO: implementar a opção 1.
+        Console.WriteLine("ola isso e um teste ");
     }
 
     private static void ListarAnimais()

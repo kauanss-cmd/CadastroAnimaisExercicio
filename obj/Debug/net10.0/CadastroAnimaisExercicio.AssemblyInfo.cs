@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CadastroAnimaisExercicio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6ed7d86aa873e7a16dd4f9b14aaf8ffd097b202")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3cfbce4becef5181404bbf79a5ea04cea1f147d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("CadastroAnimaisExercicio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CadastroAnimaisExercicio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
